@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhya Sampate</h1>
+<h1 align="center">Hi 👋, I'm Sandhya :)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 ### Hello I'm Sandhya Sampate, And Below Is Small Introduction About Me!👋
 <img align="right"alt="coding"width="300"src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
