@@ -4,7 +4,7 @@
 
 
 - 🔭 Institute / University  : Im A Student Of BCA. I did my graduation from SRTMU.
-- 🌱 I’m currently learning  : PYTHON, FLASK, DJANGO, DATA-PREPROCESSING.
+- 🌱 I’m currently learning  : PYTHON, FLASK, DJANGO.
 - 👯 I’m looking to Work on  : Software developement And Interested To Work On My Current Tech Stack.
 - I’m looking for Job Function : Information Technology, Software Developer/Engineer . 
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
