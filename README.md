@@ -7,7 +7,7 @@
 - 👯 I’m looking to Work on  : Software developement And Interested To Work On My Current Tech Stack.
 - I’m looking for Job Function : Information Technology, Software Developer/Engineer . 
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
-- Searching For Job Title : Backend Devloper + Devops.
+- Searching For Job Title : Software Devloper 
 - I'm Looking For Job Type :  Full-Time.
 - 📫 How to reach me : <!--[LinkedIn Profile](https://www.linkedin.com/in/sampatesandhya/),--> Mail Id 📧 sandhyasampate21@gmail.com
 - ⚡ : Interested In Learning New Things.
