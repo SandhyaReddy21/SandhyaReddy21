@@ -18,15 +18,36 @@
 
 <h3 align="left">Programming Languages And Other Things Which I Learn  : </h3>
 
-<p align = "left"> <a href = "https://www.cprogramming.com/" target = "_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "c" width = "50" height = "50"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>  <a href="https://docs.github.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" width="60" height="60"/> </a> <br>   </a> <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" width="60" height="60"/> </a> <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> <img align ="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="60" height="60"/> </a></p> <br><br><br>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhyareddy21&show_icons=true&theme=highcontrast" alt="sandhyareddy21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhyareddy21&show_icons=true&theme=highcontrast" alt="sandhyareddy21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyareddy21&&theme=highcontrast" alt="sandhyareddy21" /></p>
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    </a>
+    <a href="https://docs.github.com/en" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" width="60" height="60"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+    </a>
+    <br>
+    <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" width="60" height="60"/>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="60" height="60"/>
+    </a>
+</p>
+<br><br><br>
 
 
 
