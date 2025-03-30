@@ -3,14 +3,13 @@
 ### Hello I'm Sandhya Sampate, And Below Is Small Introduction About Me!👋
 <img align="right"alt="coding"width="300"src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
 
-- 🔭 Institute / University  : Im A Student Of BCA. I did my graduation from SRTMU.
-- I’m looking to Work on  : Software developement And Interested To Work On My Current Tech Stack.
-- I’m looking for Job Function : Information Technology, Software Developer/Engineer . 
-- 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
-- Searching For Job Title : Software Devloper 
-- I'm Looking For Job Type :  Full-Time.
-- 📫 How to reach me : <!--[LinkedIn Profile](https://www.linkedin.com/in/sampatesandhya/),--> Mail Id 📧 sandhyasampate@gmail.com
-- ⚡ : Interested In Learning New Things.
+🔭 Software Developer at Buktec | Python | AI | Backend Development  
+💡 Passionate about building scalable APIs and improving AI models.  
+📚 Experienced in DocAI, data augmentation, and optimizing extraction processes.  
+🚀 Exploring advanced AI solutions and enhancing model accuracy.  
+📫 Reach me at: sandhyasampate@gmail.com  
+⚡ Continuously learning and exploring new technologies to stay ahead.  
+
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
